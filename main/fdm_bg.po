@@ -936,11 +936,11 @@ msgstr "Ползвай сървърно време при създаване н�
 
 msgctxt "DownloadsSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Папка за изтегляне"
 
 msgctxt "DownloadsSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "Изберете папка за изтегляне автоматично"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on file type"
@@ -952,11 +952,11 @@ msgstr "Предложение за папки базирано на URL за и
 
 msgctxt "DownloadsSettings|"
 msgid "Fixed default download folder"
-msgstr ""
+msgstr "Папка за изтегляне по избор"
 
 msgctxt "DownloadsSettings|"
 msgid "Macros"
-msgstr ""
+msgstr "Макрота"
 
 msgctxt "DownloadsTagMenu|"
 msgid "Untag"
@@ -1498,7 +1498,7 @@ msgstr "Отказ"
 
 msgctxt "GeneralSettings|"
 msgid "Macros"
-msgstr ""
+msgstr "Макрота"
 
 msgctxt "GeneralSettings|"
 msgid "Compact view of downloads list"
